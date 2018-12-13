@@ -15,7 +15,7 @@ When you have the pieces, just glue them together ! Varnish, sand, paint, do wha
 
 The case is intended to be built with the <a href="https://www.meanwell-web.com/content/files/pdfs/productPdfs/MW/Rt-65/RT-65-spec.pdf">Mean Well RT-65B</a>.
 
-The space for it is <strong>tight</strong> in the way I positioned it, but it should work. I made it work. There less than a centimiter to make the cables go from the terminals to the busboard and the AC inlet.
+The space for it is <strong>tight</strong> in the way I positioned it, but it should work. I made it work. There's less than a centimeter to make the cables go from the terminals to the busboard and the AC inlet.
 
 I highly recommend you cover the terminals with a bit of electrical tape as some of these will be carrying the mains and the RT-65B doesn't have a proper plastic cover.
 
