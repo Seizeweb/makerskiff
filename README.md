@@ -27,7 +27,14 @@ PCB's are available at https://pushermanproductions.com
 
 ### BOM
 
-Coming soon-ish
+* 1x Mean Well RT-65B
+Mouser part No: 709-RT65B
+* 2x Gie-Tec 104hp vector rails <strong>with lip</strong>
+* 1x Schurter DD11.0114.1110 AC Power Inlet
+Mouser part No : 693-DD11.0114.1110
+Careful, they're often sold without the fuse drawer. Remember to include it in your order ! You might want to add a cover as well. If you want to save a bit, you can also wrap it with electrical tape when it's mounted.
+* Busboard's BOM to be found on the dedicated <a href="https://github.com/vaeinoe/moraydular/tree/master/powerbus">GitHub Repo</a>.
+* Various cables and screws, I'm sure you can figure that part out.
 
 # Photos
 
