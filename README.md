@@ -38,7 +38,14 @@ PCB's are available at https://pushermanproductions.com
 
 # Photos
 
-Coming soon-ish
+![Alt text](img/1.jpg)
+![Alt text](img/2.jpg)
+![Alt text](img/3.jpg)
+![Alt text](img/4.jpg)
+![Alt text](img/5.jpg)
+![Alt text](img/6.jpg)
+![Alt text](img/7.jpg)
+![Alt text](img/8.jpg)
 
 # License
 This project is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">Creative Commons - Attribution - Non-Commercial - Share Alike</a> license.
