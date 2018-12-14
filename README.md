@@ -47,5 +47,12 @@ PCB's are available at https://pushermanproductions.com
 ![Alt text](img/7.jpg)
 ![Alt text](img/8.jpg)
 
+# Closing
+
+For closing and carrying the skiff, I've thought of some sort of two velcro straps, that would join in a handle. I'm yet to create these ! But here is a - gross - mockup for you to get the idea. 
+<br><i>A possible improvement to the case would be to have a part sticking out so the lid would go exactly on the bottom and stay in place.</i>
+
+![Alt text](img/closed-mockup.jpg)
+
 # License
 This project is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">Creative Commons - Attribution - Non-Commercial - Share Alike</a> license.
